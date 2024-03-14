@@ -1,16 +1,11 @@
 {
-  "licenses": {
-    "license_code_1": {
-      "expiry": "2024-12-31",
-      "computers": [""]
-    },
-    "license_code_2": {
-      "expiry": "2025-06-30",
-      "computers": ["computer_serial_number_2", "computer_serial_number_3"]
-    },
-    "license_code_3": {
-      "expiry": "2023-09-15",
-      "computers": ["computer_serial_number_4"]
-    }
+  "ABCD-EFGH-IJKL-MNOP": {
+    "expiry": "2024-12-31"
+  },
+  "WXYZ-1234-5678-9012": {
+    "expiry": "2025-06-30"
+  },
+  "QRST-5678-ABCD-EFGH": {
+    "expiry": "2023-09-15"
   }
 }
