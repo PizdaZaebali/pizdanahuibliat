@@ -1,10 +1,16 @@
 {
-  "ABCD-1234-EFGH-5678": {
-    "expiry": "2024-12-31",
-    "diskSerial": ""
-  },
-  "WXYZ-9876-TUVW-5432": {
-    "expiry": "2025-06-30",
-    "diskSerial": "ZYXWVU654321"
+  "licenseCodes": {
+    "1111": {
+      "expiry": "2024-12-31",
+      "diskSerial": "YOUR_DISK_SERIAL"
+    },
+    "INSHXYCVMG": {
+      "expiry": "2023-06-30",
+      "diskSerial": ""
+    },
+    "YMSJVUIAOQ": {
+      "expiry": "2022-09-15",
+      "diskSerial": "YOUR_DISK_SERIAL"
+    }
   }
 }
