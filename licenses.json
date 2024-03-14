@@ -1,16 +1,10 @@
 {
-  "licenseCodes": {
-    "1111": {
-      "expiry": "2024-12-31",
-      "diskSerial": "YOUR_DISK_SERIAL"
+    "ABC123": {
+        "expiry": "2024-12-31",
+        "diskSerial": ""
     },
-    "INSHXYCVMG": {
-      "expiry": "2023-06-30",
-      "diskSerial": ""
-    },
-    "YMSJVUIAOQ": {
-      "expiry": "2022-09-15",
-      "diskSerial": "YOUR_DISK_SERIAL"
+    "DEF456": {
+        "expiry": "2023-06-30",
+        "diskSerial": "0987654321"
     }
-  }
 }
