@@ -1,11 +1,10 @@
 {
-  "TEST": {
-    "expiry": "2024-12-31"
+  "license1": {
+    "expiry": "2024-12-31",
+    "macAddress": "00:11:22:33:44:55"
   },
-  "WXYZ-9876-TUVW-5432": {
-    "expiry": "2025-06-30"
-  },
-  "QWER-4567-ASDF-8901": {
-    "expiry": "2023-09-15"
+  "license2": {
+    "expiry": "2025-06-30",
+    "macAddress": "AA:BB:CC:DD:EE:FF"
   }
 }
