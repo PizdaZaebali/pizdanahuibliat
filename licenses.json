@@ -2,7 +2,7 @@
   "licenses": {
     "license_code_1": {
       "expiry": "2024-12-31",
-      "computers": ["computer_serial_number_1"]
+      "computers": [""]
     },
     "license_code_2": {
       "expiry": "2025-06-30",
